@@ -1,2 +1,3 @@
 # react-learning-styled-components
-Created with CodeSandbox
+
+Trying out Styled Components.
